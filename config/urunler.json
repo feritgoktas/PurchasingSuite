@@ -1,0 +1,132 @@
+[
+  {
+    "kod": "SBZ-0012",
+    "ad": {
+      "tr": "Domates",
+      "en": "Tomato"
+    },
+    "kategori": "SBZ",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "SBZ-0021",
+    "ad": {
+      "tr": "Salatalık",
+      "en": "Cucumber"
+    },
+    "kategori": "SBZ",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "SBZ-0034",
+    "ad": {
+      "tr": "Kırmızı Biber",
+      "en": "Red Pepper"
+    },
+    "kategori": "SBZ",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "MYV-0031",
+    "ad": {
+      "tr": "Limon",
+      "en": "Lemon"
+    },
+    "kategori": "MYV",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "MYV-0042",
+    "ad": {
+      "tr": "Çilek",
+      "en": "Strawberry"
+    },
+    "kategori": "MYV",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "ET-0004",
+    "ad": {
+      "tr": "Dana Kontrfile",
+      "en": "Beef Striploin"
+    },
+    "kategori": "ET",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "ET-0017",
+    "ad": {
+      "tr": "Kuzu But",
+      "en": "Lamb Leg"
+    },
+    "kategori": "ET",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "BLK-0009",
+    "ad": {
+      "tr": "Levrek",
+      "en": "Sea Bass"
+    },
+    "kategori": "BLK",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "BLK-0022",
+    "ad": {
+      "tr": "Çipura",
+      "en": "Sea Bream"
+    },
+    "kategori": "BLK",
+    "birim": "kg",
+    "aktif": true
+  },
+  {
+    "kod": "NF-TEK-0231",
+    "ad": {
+      "tr": "Banyo Havlusu 70x140",
+      "en": "Bath Towel 70x140"
+    },
+    "kategori": "NF-TEK",
+    "birim": "adet",
+    "aktif": true
+  },
+  {
+    "kod": "NF-TEK-0244",
+    "ad": {
+      "tr": "Yastık Kılıfı 50x70",
+      "en": "Pillowcase 50x70"
+    },
+    "kategori": "NF-TEK",
+    "birim": "adet",
+    "aktif": true
+  },
+  {
+    "kod": "NF-TMZ-0102",
+    "ad": {
+      "tr": "Genel Yüzey Temizleyici 5L",
+      "en": "Surface Cleaner 5L"
+    },
+    "kategori": "NF-TMZ",
+    "birim": "adet",
+    "aktif": true
+  },
+  {
+    "kod": "NF-TMZ-0115",
+    "ad": {
+      "tr": "Bulaşık Deterjanı 5L",
+      "en": "Dish Detergent 5L"
+    },
+    "kategori": "NF-TMZ",
+    "birim": "adet",
+    "aktif": true
+  }
+]

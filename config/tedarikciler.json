@@ -1,0 +1,162 @@
+[
+  {
+    "kod": "TED-001",
+    "unvan": "Anadolu Sebze Meyve A.Ş.",
+    "kategoriler": [
+      "SBZ",
+      "MYV"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-004",
+    "unvan": "Ege Taze Gıda Ltd.",
+    "kategoriler": [
+      "SBZ",
+      "MYV"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-005",
+    "unvan": "Marmara Hal Tedarik",
+    "kategoriler": [
+      "SBZ",
+      "MYV"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-006",
+    "unvan": "Trakya Et Entegre A.Ş.",
+    "kategoriler": [
+      "ET"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-007",
+    "unvan": "Bolu Kasaplık Ltd.",
+    "kategoriler": [
+      "ET"
+    ],
+    "aktif": false,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    },
+    "pasifTarih": "2026-03-01"
+  },
+  {
+    "kod": "TED-008",
+    "unvan": "Anadolu Et Sanayi",
+    "kategoriler": [
+      "ET"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-009",
+    "unvan": "Akdeniz Su Ürünleri",
+    "kategoriler": [
+      "BLK"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-010",
+    "unvan": "Boğaz Balıkçılık Ltd.",
+    "kategoriler": [
+      "BLK"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-011",
+    "unvan": "Denizli Tekstil San.",
+    "kategoriler": [
+      "NF-TEK"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-012",
+    "unvan": "Bursa Otel Tekstil",
+    "kategoriler": [
+      "NF-TEK"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-013",
+    "unvan": "Hijyen Pro Kimya",
+    "kategoriler": [
+      "NF-TMZ"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  },
+  {
+    "kod": "TED-014",
+    "unvan": "Temiz İş Endüstriyel",
+    "kategoriler": [
+      "NF-TMZ"
+    ],
+    "aktif": true,
+    "iletisim": {
+      "kisi": "",
+      "telefon": "",
+      "eposta": ""
+    }
+  }
+]

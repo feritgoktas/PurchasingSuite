@@ -1,0 +1,4 @@
+[
+  { "kod": "HTL-01", "ad": { "tr": "Otel 1", "en": "Hotel 1" }, "aktif": true },
+  { "kod": "HTL-02", "ad": { "tr": "Otel 2", "en": "Hotel 2" }, "aktif": true }
+]

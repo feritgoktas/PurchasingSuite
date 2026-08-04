@@ -1,0 +1,11 @@
+[
+  { "kullanici": "ferit", "adSoyad": "", "rol": "admin",
+    "anaOtel": "HTL-01", "dil": "en",
+    "moduller": ["ledger", "rfq", "closing"] },
+  { "kullanici": "cihan", "adSoyad": "", "rol": "kullanici",
+    "anaOtel": "HTL-01", "dil": "en",
+    "moduller": ["ledger", "rfq", "closing"] },
+  { "kullanici": "fatih", "adSoyad": "", "rol": "kullanici",
+    "anaOtel": "HTL-02", "dil": "en",
+    "moduller": ["ledger", "rfq", "closing"] }
+]
